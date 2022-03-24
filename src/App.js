@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Congratulations , You have hosted your react app on EC2 !
+          Congratulations , You have hosted your react app on EC2 !!
         </p>
         <a
           className="App-link"
